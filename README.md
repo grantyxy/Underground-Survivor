@@ -7,3 +7,4 @@ Author:
 - Haoran Zhao
 - Hao Wu
 - Hongyi Luo
+- Jiana Lin
