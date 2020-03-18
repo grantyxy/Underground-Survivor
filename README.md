@@ -1,4 +1,4 @@
-# My CP317 Project
+# Underground Survivor
 A game, which is called Underground Survivor  
 
 Author:
